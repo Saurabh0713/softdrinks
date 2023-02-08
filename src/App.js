@@ -1,23 +1,21 @@
-import logo from './logo.svg';
+
 import './App.css';
+import OrangeJuice from './OrangeJuice';
+import Navbar from './Navbar';
+import Home from './Home';
+import KiwiJuice from './KiwiJuice';
+import NewAF from './NewAF';
+import VarityJuices from './VarityJuices';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Navbar />
+      <Home/>
+    <OrangeJuice></OrangeJuice>
+    <KiwiJuice/>
+    <VarityJuices/>
+    {/* <NewAF/> */}
     </div>
   );
 }
