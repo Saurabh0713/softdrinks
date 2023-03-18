@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/softdrinks/static/css/main.db74d143.css",
+    "main.js": "/softdrinks/static/js/main.437b0a4e.js",
+    "static/js/787.89816db4.chunk.js": "/softdrinks/static/js/787.89816db4.chunk.js",
+    "static/media/strawberries-png-1487322.png": "/softdrinks/static/media/strawberries-png-1487322.2136bb7dae46b2c4bffa.png",
+    "static/media/orange-png-95467.png": "/softdrinks/static/media/orange-png-95467.ff4ee215d52a7685d26d.png",
+    "static/media/kiwi-png-1068728.png": "/softdrinks/static/media/kiwi-png-1068728.5a4939dff6fc517e513c.png",
+    "static/media/orange-png-41970.png": "/softdrinks/static/media/orange-png-41970.621f91f3a765ecb22d83.png",
+    "static/media/hibiscus-canned-juice-beverage.png": "/softdrinks/static/media/hibiscus-canned-juice-beverage.f9bdb42ef62c565e4479.png",
+    "static/media/mango-canned-juice-beverage.png": "/softdrinks/static/media/mango-canned-juice-beverage.3146c50c0f350272b281.png",
+    "static/media/branch-png-62265.png": "/softdrinks/static/media/branch-png-62265.a7f77d9ea1a62b7899dd.png",
+    "static/media/kiwi-png-1068957.png": "/softdrinks/static/media/kiwi-png-1068957.a84a2b48498b00eca0c3.png",
+    "static/media/minute-maid.png": "/softdrinks/static/media/minute-maid.055930838d292403890e.png",
+    "static/media/strawberry-canned-juice-beverage.png": "/softdrinks/static/media/strawberry-canned-juice-beverage.7a59c36a88e7adc836a7.png",
+    "static/media/Minute-Maid_Lemonades.png": "/softdrinks/static/media/Minute-Maid_Lemonades.a2c16874fe25a80e76f2.png",
+    "static/media/JTG-PCP-Thumbnails-cranGrape.png": "/softdrinks/static/media/JTG-PCP-Thumbnails-cranGrape.d617f0814cd55a2bff85.png",
+    "static/media/JTG-PCP-Thumbnails-tropicalBlend.png": "/softdrinks/static/media/JTG-PCP-Thumbnails-tropicalBlend.565e4026d50f5d41498a.png",
+    "index.html": "/softdrinks/index.html",
+    "main.db74d143.css.map": "/softdrinks/static/css/main.db74d143.css.map",
+    "main.437b0a4e.js.map": "/softdrinks/static/js/main.437b0a4e.js.map",
+    "787.89816db4.chunk.js.map": "/softdrinks/static/js/787.89816db4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db74d143.css",
+    "static/js/main.437b0a4e.js"
+  ]
+}
