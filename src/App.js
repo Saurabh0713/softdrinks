@@ -6,6 +6,7 @@ import Home from './Home';
 import KiwiJuice from './KiwiJuice';
 import NewAF from './NewAF';
 import VarityJuices from './VarityJuices';
+import Footer from './Footer';
 
 function App() {
   return (
@@ -15,7 +16,8 @@ function App() {
     <OrangeJuice></OrangeJuice>
     <KiwiJuice/>
     <VarityJuices/>
-    {/* <NewAF/> */}
+    <NewAF/>
+    <Footer/>
     </div>
   );
 }
